@@ -12,7 +12,7 @@ Some of the highlights of the server app:
 
 First begin by running `npm install` in the working directory.
 
-Once all packages are complete then run `grunt` command or if using Visual Studio just run the program. The server is set to run on **localhost:3000***, this is where you'd begin entry to the endpoints. 
+Once all packages are complete then run `grunt` command or if using Visual Studio just run the program. The server is set to run on **localhost:3000**, this is where you'd begin entry to the endpoints. 
 
 # API Routes
 
