@@ -1,0 +1,22 @@
+{
+  "name": "median-voter",
+  "version": "0.0.0",
+  "description": "MedianVoter",
+  "main": "server.js",
+  "author": {
+    "name": "anderson.faraji"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "govtrack-node": "^0.2.0",
+    "propublica-congress-node": "^0.1.2",
+    "request-debug": "^0.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.15.3",
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "^0.4.2",
+    "lodash": "^4.17.4"
+  }
+}

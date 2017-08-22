@@ -1,0 +1,2 @@
+C:\Users\anderson.faraji\Documents\GitHub\MedianVoter\MedianVoter\obj\Debug\MedianVoter.njsprojResolveAssemblyReference.cache
+C:\Users\anderson.faraji\Documents\GitHub\MedianVoter\MedianVoter\bin\Microsoft.NodejsTools.WebRole.dll
